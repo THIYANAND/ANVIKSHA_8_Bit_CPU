@@ -141,12 +141,18 @@ This project is developed as a major academic project by:
 - **Preetha S M**
 
 ---
+## Project Images
+<p align="center">
+  <b>Block Diagram </b><br><br>
+  <img src="schematics/block.jpeg" width="300"/>
+  <img src="schematics/structure.jpeg" width="300"/>
+</p>
+<p align="center">
+  <b>FPGA interface </b><br><br>
+  <img src="schematics/fpga2.jpeg" width="300"/>
+  <img src="schematics/fpga3.jpeg" width="300"/>
+</p>
 
-## 📄 License
-
-This project is developed for educational and learning purposes.
-
----
 
 ## ⭐ Acknowledgements
 
