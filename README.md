@@ -126,7 +126,10 @@ This project is developed as a major academic project by:
 - **Chaithanya Krishnappa**
 - **Fathimath Aneesha**
 - **Preetha S M**
-
+ <p align="center">
+  <b>Block Diagram </b><br><br>
+  <img src="images.jpeg" width="500"/>
+</p> 
 ---
 ## Project Images
 <p align="center">
