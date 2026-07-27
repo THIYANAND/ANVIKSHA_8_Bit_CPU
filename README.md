@@ -128,7 +128,7 @@ This project is developed as a major academic project by:
 - **Preetha S M**
  <p align="center">
   <b>Block Diagram </b><br><br>
-  <img src="images.jpeg" width="500"/>
+  <img src="images.jpeg" width="300"/>
 </p> 
 ---
 ## Project Images
