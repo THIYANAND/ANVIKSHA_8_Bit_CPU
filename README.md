@@ -126,10 +126,6 @@ This project is developed as a major academic project by:
 - **Chaithanya Krishnappa**
 - **Fathimath Aneesha**
 - **Preetha S M**
- <p align="center">
-  <b>Images </b><br><br>
-  <img src="images.jpeg" width="300"/>
-</p> 
 ---
 ## Project Images
 <p align="center">
@@ -150,3 +146,7 @@ This project is developed as a major academic project by:
 - Xilinx Vivado
 - Digilent Basys 3 FPGA
 - Faculty Guides and Department of Electronics & Communication Engineering
+<p align="center">
+  <b>Images </b><br><br>
+  <img src="images.jpeg" width="300"/>
+</p> 
