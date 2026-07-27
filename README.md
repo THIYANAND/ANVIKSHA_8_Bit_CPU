@@ -147,6 +147,6 @@ This project is developed as a major academic project by:
 - Digilent Basys 3 FPGA
 - Faculty Guides and Department of Electronics & Communication Engineering
 <p align="center">
-  <b>Images </b><br><br>
+  <b>Team member's </b><br><br>
   <img src="images.jpeg" width="300"/>
 </p> 
