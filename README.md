@@ -127,7 +127,7 @@ This project is developed as a major academic project by:
 - **Fathimath Aneesha**
 - **Preetha S M**
  <p align="center">
-  <b>Block Diagram </b><br><br>
+  <b>Images </b><br><br>
   <img src="images.jpeg" width="300"/>
 </p> 
 ---
