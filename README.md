@@ -144,7 +144,7 @@ This project is developed as a major academic project by:
 ## Project Images
 <p align="center">
   <b>Block Diagram </b><br><br>
-  <img src="block.jpeg" width="300"/>
+  <img src="block.jpeg" width="500"/>
   <img src="structure.jpeg" width="300"/>
 </p>
 <p align="center">
