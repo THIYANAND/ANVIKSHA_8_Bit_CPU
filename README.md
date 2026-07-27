@@ -111,24 +111,11 @@ ANVIKSHA/
 
 - 16-bit architecture
 - Expanded instruction set
-- Pipeline implementation
 - Interrupt handling
 - Cache memory
 - UART communication
 - Assembly language support
 - Enhanced debugging interface
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of:
-- Logisim CPU Design
-- ALU Circuit
-- Complete Processor
-- Basys 3 FPGA Implementation
-- Output on FPGA
-
 ---
 
 ## 👨‍💻 Team
