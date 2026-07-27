@@ -149,8 +149,8 @@ This project is developed as a major academic project by:
 </p>
 <p align="center">
   <b>FPGA interface </b><br><br>
-  <img src="fpga2.jpeg" width="500"/>
-  <img src="fpga3.jpeg" width="500"/>
+  <img src="fpga2.jpeg" width="300"/>
+  <img src="fpga3.jpeg" width="300"/>
 </p>
 
 
