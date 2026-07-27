@@ -122,7 +122,7 @@ ANVIKSHA/
 
 This project is developed as a major academic project by:
 
-- **@ThiyanandMurugan**
+- **Thiyanand Murugan**
 - **Chaithanya Krishnappa**
 - **Fathimath Aneesha**
 - **Preetha S M**
