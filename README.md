@@ -1,7 +1,7 @@
 # 🚀 ANVIKSHA – Educational 8-Bit CPU
 
 <p align="center">
-  <img src="Report_requirements/block.jpeg" width="700"/>
+  <img src="Report_requirements/circuit.jpeg" width="700"/>
 </p>
 
 <p align="center">
