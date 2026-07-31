@@ -130,13 +130,14 @@ This project is developed as a major academic project by:
 ## Project Images
 <p align="center">
   <b>Block Diagram </b><br><br>
-  <img src="block.jpeg" width="500"/>
-  <img src="structure.jpeg" width="500"/>
+  <img src="Report_requirements/block.jpeg" width="300"/>
+  <img src="Report_requirements/structure.jpeg" width="300"/>
 </p>
 <p align="center">
   <b>FPGA interface </b><br><br>
-  <img src="fpga2.jpeg" width="300"/>
-  <img src="fpga3.jpeg" width="300"/>
+ <img src="Report_requirements/fpga1.jpeg" width="300"/>
+   <img src="Report_requirements/fpga2.jpeg" width="300"/>
+   <img src="Report_requirements/fpga3.jpeg" width="300"/>
 </p>
 
 
@@ -146,7 +147,7 @@ This project is developed as a major academic project by:
 - Xilinx Vivado
 - Digilent Basys 3 FPGA
 - Faculty Guides and Department of Electronics & Communication Engineering
+## Team Members
 <p align="center">
-  <b>Team member's </b><br><br>
-  <img src="images.jpeg" width="300"/>
-</p> 
+  <img src="Report_requirements/image.jpeg" width="300"/>
+</p>
