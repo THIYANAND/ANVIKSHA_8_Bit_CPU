@@ -128,7 +128,7 @@ ANVIKSHA/
 ### Block Diagram
 
 <p align="center">
-<img src="Report_requirements/block.jpeg" width="650">
+<img src="Report_requirements/block.jpeg" width="550">
 </p>
 
 ---
@@ -136,7 +136,7 @@ ANVIKSHA/
 ### Processor Architecture
 
 <p align="center">
-<img src="Report_requirements/structure.jpeg" width="650">
+<img src="Report_requirements/structure.jpeg" width="550">
 </p>
 
 ---
@@ -144,7 +144,7 @@ ANVIKSHA/
 ### FPGA Implementation
 
 <p align="center">
-<img src="Report_requirements/fpga4.jpeg" width="650">
+<img src="Report_requirements/fpga4.jpeg" width="550">
 </p>
 
 ---
