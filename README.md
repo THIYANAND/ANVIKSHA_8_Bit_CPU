@@ -176,9 +176,8 @@ This project was developed as a **Major Academic Project** by:
 - **Fathimath Aneesha**
 - **Preetha S M**
 <p align="center">
-<img src="Report_requirements/images.jpeg" width="550">
+<img src="Report_requirements/images.jpeg" width="500">
 </p>
----
 
 ## 🙏 Acknowledgements
 
