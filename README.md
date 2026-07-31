@@ -135,7 +135,7 @@ This project is developed as a major academic project by:
 </p>
 <p align="center">
   <b>FPGA interface </b><br><br>
- <img src="Report_requirements/fpga1.jpeg" width="300"/>
+ <img src="Report_requirements/fpga1.jpeg" width="500"/>
    <img src="Report_requirements/fpga2.jpeg" width="300"/>
    <img src="Report_requirements/fpga3.jpeg" width="300"/>
 </p>
@@ -149,5 +149,5 @@ This project is developed as a major academic project by:
 - Faculty Guides and Department of Electronics & Communication Engineering
 ## Team Members
 <p align="center">
-  <img src="Report_requirements/image.jpeg" width="300"/>
+  <img src="Report_requirements/images.jpeg" width="500"/>
 </p>
