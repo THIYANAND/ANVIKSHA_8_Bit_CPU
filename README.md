@@ -128,7 +128,9 @@ ANVIKSHA/
 ### Block Diagram
 
 <p align="center">
-<img src="Report_requirements/block.jpeg" width="550">
+<img src="Report_requirements/img1.jpeg" width="550">
+  <img src="Report_requirements/img2.jpeg" width="550">
+  <img src="Report_requirements/img3.jpeg" width="550">
 </p>
 
 ---
@@ -175,7 +177,9 @@ This project was developed as a **Major Academic Project** by:
 - **Chaithanya Krishnappa**
 - **Fathimath Aneesha**
 - **Preetha S M**
-
+<p align="center">
+<img src="Report_requirements/images.jpeg" width="550">
+</p>
 ---
 
 ## 🙏 Acknowledgements
