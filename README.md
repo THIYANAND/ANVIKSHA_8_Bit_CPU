@@ -146,10 +146,8 @@ ANVIKSHA/
 ### FPGA Implementation
 
 <p align="center">
-<img src="Report_requirements/fpga4.jpeg" width="550">
+<img src="Report_requirements/fpga4.jpeg" width="500">
 </p>
-
----
 
 ## 🚀 Future Enhancements
 
