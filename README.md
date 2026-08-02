@@ -106,19 +106,14 @@ The processor executes every instruction through the classical **Fetch–Decode�
 ```text
 ANVIKSHA/
 │
-├── Logisim/                  # Logisim Evolution CPU Design
-├── Verilog/                  # Verilog HDL Source Files
-├── Processor/                # Top-Level CPU Module
-├── ALU/                      # Arithmetic Logic Unit
-├── Registers/                # Register File
-├── Program Counter/          # Program Counter Module
-├── SRAM/                     # Memory Module
-├── Instruction Decoder/      # Instruction Decoder
-├── Address Decoder/          # Address Decoder
-├── Program Loader/           # Program Loader
-├── Documentation/            # Project Report & Documentation
-├── Report_requirements/      # Images and Figures
-└── README.md
+├── Circuits/                     # Logisim Evolution Circuit Files
+├── Finalized_reports/            # Final Project Reports
+├── Hardware_implementation/      # Basys 3 FPGA Hardware Implementation
+├── Project_supported_images/     # Images Used in Documentation
+├── Report_requirements/          # Supporting Figures, Diagrams & Resources
+├── Research_paper/               # Research Paper and Publications
+├── Software_implementation/      # Verilog HDL Source Code & Simulation Files
+└── README.md                     # Project Overview and Documentation
 ```
 
 ---
