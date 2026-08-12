@@ -1,0 +1,65 @@
+microcode.mem code for adding the two variables
+
+// ==========================================
+// Opcode 00000 (LDA - Hex Address @00)
+// ==========================================
+@00
+00100000100000000
+00011010000000000
+00000000000000000
+00000100100000000
+00000010000000100
+
+// ==========================================
+// Opcode 00010 (ADD - Hex Address @10)
+// ==========================================
+@10
+00100000100000000
+00011010000000000
+00000000000000000
+00000100100000000
+00000010001000000
+00000000000010101
+
+// ==========================================
+// Opcode 11100 (OUT - Hex Address @E0)
+// ==========================================
+@E0
+00100000100000000
+00011010000000000
+00000000000000000
+10000000000001000
+
+rom_data.mem for adding the two varibles
+
+00000100
+00010101
+11100000
+11111000
+00000101
+00000011
+
+====================================================================
+1. INSTRUCTION SET ARCHITECTURE (ISA)
+====================================================================
+Instruction | 5-Bit Opcode | Description
+--------------------------------------------------------------------
+LDA         | 00000        | Load Accumulator with memory contents
+ADD         | 00010        | Add memory contents to Accumulator
+STA         | 00100        | Store Accumulator into memory
+JMP         | 01000        | Unconditional jump to address
+OUT         | 11100        | Push Accumulator to Output Display
+HLT         | 11111        | Halt the CPU
+
+
+====================================================================
+2. PROGRAM 1: ADDING TWO VARIABLES
+====================================================================
+RAM Addr | Binary Code | Assembly | Description
+--------------------------------------------------------------------
+00       | 00000100    | LDA 04   | Load data at Address 04 into Accumulator
+01       | 00010101    | ADD 05   | Add data at Address 05 to Accumulator
+02       | 11100000    | OUT      | Output Accumulator to 7-segment display
+03       | 11111000    | HLT      | Halt CPU execution
+04       | 00000101    | DATA: 5  | Variable 1 (Decimal 5)
+05       | 00000011    | DATA: 3  | Variable 2 (Decimal 3)

@@ -1,0 +1,93 @@
+microcode.mem code for adding the fibonacci sequences
+// ==========================================
+// Opcode 00000 (LDA - Hex Address @00)
+// ==========================================
+@00
+00100000100000000
+00011010000000000
+00000000000000000
+00000100100000000
+00000010000000100
+
+// ==========================================
+// Opcode 00010 (ADD - Hex Address @10)
+// ==========================================
+@10
+00100000100000000
+00011010000000000
+00000000000000000
+00000100100000000
+00000010001000000
+00000000000010101
+
+// ==========================================
+// Opcode 00100 (STA - Hex Address @20)
+// ==========================================
+@20
+00100000100000000
+00011010000000000
+00000000000000000
+00000100100000000
+00000001000001000
+
+// ==========================================
+// Opcode 01000 (JMP - Hex Address @40)
+// ==========================================
+@40
+00100000100000000
+00011010000000000
+00000000000000000
+01000100000000000
+
+// ==========================================
+// Opcode 11100 (OUT - Hex Address @E0)
+// ==========================================
+@E0
+00100000100000000
+00011010000000000
+00000000000000000
+10000000000001000
+
+rom_data.mem for adding the fibonaaci sequences
+00000000
+00000001
+00000000
+00000000
+11100000
+00010001
+00100010
+00000001
+00100000
+00000010
+00100001
+01000011
+
+====================================================================
+1. INSTRUCTION SET ARCHITECTURE (ISA)
+====================================================================
+Instruction | 5-Bit Opcode | Description
+--------------------------------------------------------------------
+LDA         | 00000        | Load Accumulator with memory contents
+ADD         | 00010        | Add memory contents to Accumulator
+STA         | 00100        | Store Accumulator into memory
+JMP         | 01000        | Unconditional jump to address
+OUT         | 11100        | Push Accumulator to Output Display
+HLT         | 11111        | Halt the CPU
+
+====================================================================
+2. PROGRAM 2: FIBONACCI SEQUENCE (Fn = Fn-1 + Fn-2)
+====================================================================
+RAM Addr | Binary Code | Assembly | Description
+--------------------------------------------------------------------
+00       | 00000000    | DATA: 0  | Variable 1 (Fn-2) - Initialized to 0
+01       | 00000001    | DATA: 1  | Variable 2 (Fn-1) - Initialized to 1
+02       | 00000000    | DATA: 0  | Temporary storage variable
+03       | 00000000    | LDA 00   | Load Variable 1 into Accumulator
+04       | 11100000    | OUT      | Output current Fibonacci number to display
+05       | 00010001    | ADD 01   | Add Variable 2 to Accumulator (Calculates new Fn)
+06       | 00100010    | STA 02   | Store the new math result into Temp variable
+07       | 00000001    | LDA 01   | Load Variable 2 back into Accumulator
+08       | 00100000    | STA 00   | Overwrite Variable 1 with Variable 2 (Shift)
+09       | 00000010    | LDA 02   | Load Temp result back into Accumulator
+0A       | 00100001    | STA 01   | Overwrite Variable 2 with Temp result (Shift)
+0B       | 01000011    | JMP 03   | Jump back to Address 03 to loop infinitely
