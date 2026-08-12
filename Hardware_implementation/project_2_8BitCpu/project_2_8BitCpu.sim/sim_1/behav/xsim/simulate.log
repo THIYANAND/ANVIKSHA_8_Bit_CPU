@@ -1,3 +1,0 @@
-Time resolution is 1 ps
-$finish called at time : 65200 ns : File "/home/thiyanand/Documents/XilinxProjects/project_2_8BitCpu/project_2_8BitCpu.srcs/sources_1/new/cpu_tb.v" Line 49
-INFO: xsimkernel Simulation Memory Usage: 281188 KB (Peak: 338460 KB), Simulation CPU Usage: 900 ms
